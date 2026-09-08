@@ -1,6 +1,6 @@
 # GoLox
 
-GoLox is an implementation of the Lox language scanner from *Crafting Interpreters*.
+GoLox is an implementation of the Lox language from *Crafting Interpreters*.
 
 ## Requirements
 
